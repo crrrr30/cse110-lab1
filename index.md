@@ -8,10 +8,11 @@ As a programmer, I am interested in programming language and low-level stuff. I'
 - [x] My first programming language
 - [x] My first app
 - [x] My first kernel
+- [x] My own package manager
+- [ ] My multidimensional array library
 - [ ] My parser combinator library
-- [ ] My own package manager
 
-Try out my language! For example,
+Try out my language [here](https://math.joncui.sh)! For example,
 
 ```
 type true;
